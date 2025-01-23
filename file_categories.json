@@ -1,0 +1,11 @@
+{   
+    "Python":[".py"],
+    "C_Language":[".c"],
+    "Verilog":[".v"],
+    "System_Verilog":[".sv"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp"],
+    "Videos": [".mp4", ".mkv", ".mov", ".avi"],
+    "Documents": [".pdf", ".docx", ".txt", ".xlsx"],
+    "Music": [".mp3", ".wav", ".aac"],
+    "Archives": [".zip", ".tar", ".gz", ".rar"],
+}
